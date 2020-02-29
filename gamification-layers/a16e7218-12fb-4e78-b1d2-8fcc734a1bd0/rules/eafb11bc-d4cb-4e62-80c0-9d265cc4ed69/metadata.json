@@ -1,0 +1,1 @@
+{"id":"eafb11bc-d4cb-4e62-80c0-9d265cc4ed69","name":"eee","criteria":{"conditions":[{"order":0,"left_entity":"FIXED","left_property":"m","comparing_function":"STARTS_WITH","right_entity":"FIXED","right_property":"n"}],"junctors":["AND"]},"actions":[{"type":"GIVE","parameters":["28af8273-b837-4121-b5cd-f57350c94001","vvvv"]}]}
