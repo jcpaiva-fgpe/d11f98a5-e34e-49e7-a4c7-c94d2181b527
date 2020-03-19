@@ -1,0 +1,1 @@
+Policz, ile to jest 4 * 2 - 1.
