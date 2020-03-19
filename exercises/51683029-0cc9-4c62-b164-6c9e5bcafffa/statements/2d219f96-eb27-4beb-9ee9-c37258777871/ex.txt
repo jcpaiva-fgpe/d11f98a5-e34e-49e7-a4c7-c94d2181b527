@@ -1,1 +1,0 @@
-Policz rzeczywisty pierwiastek kwadratowy z liczby 3.
